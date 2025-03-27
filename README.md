@@ -1,16 +1,13 @@
-## Hi there 👋
+# 📊 [Your Name] - Data Analyst
 
-<!--
-**andrewgabr/andrewgabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Enthusiast | SQL & Python Expert | Storyteller with Numbers**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yourprofile)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=-for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨💻 About Me
+```diff
++ Passionate about transforming raw data into actionable insights
+! Specialized in data cleaning, analysis, and visualization
+# 3+ years of experience in business intelligence and data-driven decision making
