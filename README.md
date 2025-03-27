@@ -15,7 +15,7 @@
 ### **Ferramentas e Bibliotecas**
 - **Análise de Dados**: Pandas, NumPy, SQLAlchemy
 - **Visualização**: Matplotlib, Seaborn, Power BI DAX
-- **Machine Learning**: Scikit-learn, XGBoost, TensorFlow
+- **Machine Learning**: Scikit-learn, XGBoost
 - **Banco de Dados**: MySQL, PostgreSQL, SQL Server
 - **Outras**: Git, Jupyter Notebook, Excel
 
