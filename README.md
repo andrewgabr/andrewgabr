@@ -27,7 +27,7 @@
 - Identifiquei 5 variáveis críticas para retenção de clientes
 - Automatizei pipeline de dados com SQL + Python
 
-### 2. Analise de parada cardiaca + Modelo preditivo ([Python](https://github.com/andrewgabr/Predicao_parada_cardiaca))
+### 2. Analise de parada cardiaca + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Predicao_parada_cardiaca))
 **Tecnologias**: Python
 - Acuracia de 90%
 - DataViz (Seaborn, Matplotlib)
