@@ -21,7 +21,7 @@
 
 ## 📂 Projetos Destacados
 
-### 1. Analise de score de depressão + Modelo Regressão ([GitHub](https://github.com/andrewgabr/Depressao_score))
+### 1. Analise de score de depressão + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Depressao_score))
 **Tecnologias**: Python, Scikit-learn
 - Analise Exploratoria
 - Limpeza de dados
