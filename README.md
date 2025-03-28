@@ -1,62 +1,49 @@
-# Dashboard de Vendas no Excel com Dados do SQL Server
+# Andrew Gabriel de Oliveira
 
-## 📊 Visão Geral
-Este projeto apresenta um **Dashboard de Vendas** desenvolvido no Excel, com dados extraídos diretamente de um banco de dados SQL Server. O objetivo é facilitar a análise de desempenho de vendas, proporcionando insights estratégicos de forma dinâmica e visual.
-
-## 🛠️ Tecnologias Utilizadas
-- **Excel**: Para criação do dashboard interativo
-- **SQL Server**: Fonte de dados para consultas
-- **Power Query**: Conexão e transformação de dados
-- **VBA (Opcional)**: Para automação de processos
-- **Power BI**: Para análise e visualização de dados adicionais
-- **Excel Avançado**: Para manipulação de dados e relatórios
-
-## 📌 Funcionalidades
-- Resumo de vendas por período
-- Comparação de desempenho entre diferentes períodos
-- Análise de top produtos e clientes
-- Gráficos dinâmicos para melhor visualização
-- Atualização automática dos dados via conexão SQL
-
-## 📷 Capturas de Tela
-_Abaixo estão algumas imagens do dashboard:_
-
-![Dashboard Overview](coloque_o_nome_do_arquivo_aqui.png)
-
-![Gráficos de Desempenho](coloque_o_nome_do_arquivo_aqui.png)
-
-## 🚀 Como Usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
-   ```
-2. Abra o arquivo Excel
-3. Atualize os dados clicando em **Atualizar Tudo** no Power Query
-4. Visualize os relatórios e gráficos
-
-## 📂 Estrutura do Projeto
-```
-/
-├── Dashboard.xlsx  # Arquivo Excel com os gráficos
-├── Query.sql       # Script SQL para extração dos dados
-├── README.md       # Documentação do projeto
-```
-
-## 📎 Como Adicionar as Imagens no GitHub
-1. Faça o upload das imagens na seção "Issues" ou em uma pasta no repositório.
-2. Copie o link da imagem e substitua em:
-   ```markdown
-   ![Descrição da imagem](URL_da_imagem)
-   ```
-   ou, se a imagem estiver no repositório:
-   ```markdown
-   ![Descrição da imagem](caminho/para/imagem.png)
-   ```
-
-## 📧 Contato
-Se tiver dúvidas ou sugestões, entre em contato!
-
-📩 Email: [seuemail@example.com](andrewgabrieloliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github)
 
 
+## 🛠 Habilidades Técnicas
 
+### **Principais Tecnologias**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### **Ferramentas e Bibliotecas**
+- **Análise de Dados**: Pandas, NumPy, SQLAlchemy
+- **Visualização**: Matplotlib, Seaborn, Power BI DAX
+- **Machine Learning**: Scikit-learn, XGBoost
+- **Banco de Dados**: MySQL, PostgreSQL, SQL Server
+- **Outras**: Git, Jupyter Notebook, Excel
+
+## 📂 Projetos Destacados
+
+### 1. Analise de score de depressão + Modelo Regressão ([GitHub](https://github.com/andrewgabr/Depressao_score))
+**Tecnologias**: Python, Scikit-learn
+- Analise Exploratoria
+- Limpeza de dados
+- Acuracia de 91%
+
+### 2. Analise de parada cardiaca + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Predicao_parada_cardiaca))
+**Tecnologias**: Python, Scikit-learn
+- Acuracia de 90%
+- DataViz (Seaborn, Matplotlib)
+- Modelos Ensemble (Random Forest)
+
+### 3. DashBoard de vendas ([GitHub](https://github.com/andrewgabr/DashBoard_vendas/tree/master))
+**Tecnologias**: SQL, Excel
+- Conectividade com banco de dados
+- Atualização automatizada
+- Dashboard no Excel
+
+## 💼 Experiência Profissional
+
+**Estagiario** @ Vovlo Lapônia *(Ago - 2024 - Atual)*  
+- Desenvolvimento de dashboards no Power BI para monitoramento de KPIs
+- Automação de processos
+
+**Aprendiz** @ Santander SX (Fev - Ago - 2024)*  
+- Acompanhamento de rotina administrativa
