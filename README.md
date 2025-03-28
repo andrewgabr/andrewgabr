@@ -27,9 +27,9 @@
 - Limpeza de dados
 - Acuracia de 91%
 
-### 2. Analise de parada cardiaca + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Predicao_parada_cardiaca))
+### 2. Análise Climática de Szeged + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao))
 **Tecnologias**: Python, Scikit-learn
-- Acuracia de 90%
+- Acuracia de +90%
 - DataViz (Seaborn, Matplotlib)
 - Modelos Ensemble (Random Forest)
 
