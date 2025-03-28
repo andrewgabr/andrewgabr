@@ -27,38 +27,25 @@
 - Identifiquei 5 variáveis críticas para retenção de clientes
 - Automatizei pipeline de dados com SQL + Python
 
-### 2. Dashboard de Vendas Interativo ([Power BI](https://exemplo.com))
-**Tecnologias**: Power BI, DAX, SQL  
-- Criei 15+ visualizações interativas para análise regional
-- Desenvoli medidas complexas de crescimento YoY em DAX
-- Conectei a múltiplas fontes de dados (SQL + Excel)
+### 2. Analise de parada cardiaca + Modelo preditivo ([Power BI](https://exemplo.com))
+**Tecnologias**: Python
+- Acuracia de 90%
+- DataViz (Seaborn, Matplotlib)
+- Modelos Ensemble (Random Forest)
 
-### 3. Análise de Sentimento em Redes Sociais ([GitHub](https://github.com/seu-link))
-**Tecnologias**: Python, NLP, TensorFlow  
-- Modelo de deep learning para classificação de sentimentos
-- Processamento de texto com NLTK e SpaCy
-- Acurácia de 92% em dados de teste
+### 3. DashBoard de vendas ([GitHub](https://github.com/andrewgabr/DashBoard_vendas/tree/master))
+**Tecnologias**: SQL, Excel
+- Conectividade com banco de dados
+- Atualização automatizada
+- Dashboard no Excel
 
 ## 💼 Experiência Profissional
 
-**Analista de Dados** @ Empresa XYZ *(2022 - Atual)*  
-- Desenvolvi 10+ dashboards no Power BI para monitoramento de KPIs
-- Otimizei queries SQL reduzindo tempo de execução em 65%
-- Implementei modelo de clusterização para segmentação de clientes
+**Estagiario** @ Vovlo Lapônia *(Ago - 2024 - Atual)*  
+- Desenvolvimento de dashboards no Power BI para monitoramento de KPIs
+- Automação de processos
 
-**Estagiário em Ciência de Dados** @ Startup ABC *(2021 - 2022)*  
-- Automatizei relatórios usando Python + SQL
-- Participei do desenvolvimento de modelo de recomendação
-- Realizei limpeza e transformação de dados (ETL)
+**Aprendiz** @ Santander SX (Fev - Ago - 2024)*  
+- Acompanhamento de rotina administrativa
 
-## 📚 Formação & Certificações
 
-- **Bacharelado em Ciência da Computação** - Universidade X *(2018-2022)*
-- **Certificação Microsoft Power BI** - Data Analysis Associate *(2023)*
-- **Machine Learning Specialization** - DeepLearning.AI *(2022)*
-
-## 📊 Métricas Relevantes
-```diff
-+ 92% de acurácia em modelos preditivos
-! 15+ projetos de análise de dados concluídos
-# 70% de redução no tempo de geração de relatórios
