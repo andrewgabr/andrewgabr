@@ -57,9 +57,6 @@ Sou um entusiasta de **Análise de Dados e Machine Learning**, com experiência 
 - Suporte na **análise de dados administrativos**.
 - Acompanhamento de processos e automatização de tarefas rotineiras.
 
-## 📫 Entre em Contato
 
-📩 **E-mail**: andrewgabriel@email.com  
-🌎 **Portfólio**: [andrewgabriel.dev](https://andrewgabriel.dev)  
-📍 Itu - SP, Brasil
+
 
