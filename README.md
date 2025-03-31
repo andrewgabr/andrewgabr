@@ -33,7 +33,7 @@
 - Limpeza de dados / Tratamento de dados
 - Acuracia de 93% para churn e 88% para não churn
 
-### 2. Análise Climática de Szeged + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao))
+### 3. Análise Climática de Szeged + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao))
 **Tecnologias**: Python, Scikit-learn
 - Acuracia de +90%
 - DataViz (Seaborn, Matplotlib)
@@ -47,9 +47,9 @@
 
 ## 💼 Experiência Profissional
 
-**Estagiario** @ Vovlo Lapônia *(Ago - 2024 - Atual)*  
+**Estagiario**  Vovlo Lapônia *(Ago - 2024 - Atual)*  
 - Desenvolvimento de dashboards no Power BI para monitoramento de KPIs
 - Automação de processos
 
-**Aprendiz** @ Santander SX (Fev - Ago - 2024)*  
+**Aprendiz**  Santander SX (Fev - Ago - 2024)*  
 - Acompanhamento de rotina administrativa
