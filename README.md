@@ -27,7 +27,7 @@
 - Limpeza de dados / Tratamento de dados
 - Acuracia de 93% para churn e 88% para não churn
 
-### 2. Dashboard Campanha de Marketing ([GitHub]())
+### 2. Dashboard Campanha de Marketing ([GitHub](https://github.com/andrewgabr/Campanha_Marketing-Dashboard/tree/master))
 **Tecnologias**: SQL, PowerBI, Figma
 - Painel no streamlit
 - Limpeza de dados / Tratamento de dados
