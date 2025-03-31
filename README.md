@@ -39,7 +39,7 @@
 - DataViz (Seaborn, Matplotlib)
 - Modelos Ensemble (Random Forest)
 
-### 3. DashBoard de vendas ([GitHub](https://github.com/andrewgabr/DashBoard_vendas/tree/master))
+### 4. DashBoard de vendas ([GitHub](https://github.com/andrewgabr/DashBoard_vendas/tree/master))
 **Tecnologias**: SQL, Excel
 - Conectividade com banco de dados
 - Atualização automatizada
