@@ -21,11 +21,11 @@
 
 ## 📂 Projetos Destacados
 
-### 1. Analise de score de depressão + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Depressao_score))
-**Tecnologias**: Python, Scikit-learn
-- Analise Exploratoria
-- Limpeza de dados
-- Acuracia de 91%
+### 1. Aprovação de emprestimo ([GitHub](https://github.com/andrewgabr/aprovacao-emprestimo-ML))
+**Tecnologias**: Python, Scikit-learn, Streamlit
+- Painel no streamlit
+- Limpeza de dados / Tratamento de dados
+- Acuracia de 93% para churn e 88% para não churn
 
 ### 2. Análise Climática de Szeged + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao))
 **Tecnologias**: Python, Scikit-learn
