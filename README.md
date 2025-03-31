@@ -27,6 +27,12 @@
 - Limpeza de dados / Tratamento de dados
 - Acuracia de 93% para churn e 88% para não churn
 
+### 2. Dashboard Campanha de Marketing ([GitHub]())
+**Tecnologias**: SQL, PowerBI, Figma
+- Painel no streamlit
+- Limpeza de dados / Tratamento de dados
+- Acuracia de 93% para churn e 88% para não churn
+
 ### 2. Análise Climática de Szeged + Modelo preditivo ([GitHub](https://github.com/andrewgabr/Analise_Climatica_Szeged-Regressao))
 **Tecnologias**: Python, Scikit-learn
 - Acuracia de +90%
