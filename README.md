@@ -46,16 +46,6 @@ Sou um entusiasta de **Análise de Dados e Machine Learning**, com experiência 
 - Conexão com banco de dados para atualização automatizada.
 - Análises detalhadas de vendas e desempenho por categoria de produto.
 
-## 💼 Experiência Profissional
-
-### **Estagiário - Lapônia (Volvo de Itu)** *(Ago/2024 - Atual)*
-- Desenvolvimento de **dashboards no Power BI** para monitoramento de KPIs.
-- **Automação de processos e relatórios** para áreas de segurança, meio ambiente e SGI.
-- Integração de dados via **SQL e Power Automate**.
-
-### **Aprendiz - Santander SX** *(Fev/2024 - Ago/2024)*
-- Suporte na **análise de dados administrativos**.
-- Acompanhamento de processos e automatização de tarefas rotineiras.
 
 
 
