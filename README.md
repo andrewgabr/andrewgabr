@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github)
 
-## 🚀 Sobre Mim
-
-Sou um entusiasta de **Análise de Dados e Machine Learning**, com experiência em automação de processos e construção de dashboards interativos. Atualmente, trabalho na **Lapônia – Volvo de Itu**, desenvolvendo soluções para **segurança do trabalho, satisfação do cliente, meio ambiente e SGI**.
 
 ## 🛠 Habilidades Técnicas
 
